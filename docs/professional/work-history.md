@@ -1,3 +1,7 @@
+[michael](../index.md) · [professional](work-history.md) · [personal](../personal/personal.md)
+
+---
+
 ## CrossnoKaye
 *2022 – Present*  
 [CrossnoKaye](https://crossnokaye.com/)

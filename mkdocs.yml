@@ -1,11 +1,15 @@
-site_name: Michael
+site_name: ""
 
 theme:
   name: material
   palette:
     scheme: slate
+  features: []
 
 nav:
   - Home: index.md
   - Professional: professional/work-history.md
-  - Reading: personal/personal.md
+  - Personal: personal/personal.md
+
+extra_css:
+  - stylesheets/extra.css
