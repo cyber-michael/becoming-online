@@ -1,0 +1,11 @@
+site_name: Michael
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+nav:
+  - Home: index.md
+  - Professional: professional/work-history.md
+  - Reading: personal/personal.md
