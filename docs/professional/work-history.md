@@ -1,4 +1,4 @@
-## CrossnoKaye — Data Scientist  
+## CrossnoKaye
 *2022 – Present*  
 [CrossnoKaye](https://crossnokaye.com/)
 
@@ -6,15 +6,15 @@ I work on the Applied Science team developing EnergyAI, a cloud-native platform 
 
 ---
 
-## Electric Power Research Institute (EPRI) — Engineer / Scientist II  
+## Electric Power Research Institute (EPRI)
 *2021 – 2022*
 
 At EPRI, I worked on modeling, testing, and deployment of utility-scale energy storage systems. Below are selected examples of publicly available work and research artifacts I contributed to:
 
+- [Utility-Scale Battery Recycling Research (with Redwood Materials)](https://www.youtube.com/watch?v=ub6fPOxtkTk)
 - [Energy Storage Test Manual / Data Submission Guidelines](https://www.epri.com/research/products/000000003002022119)
 - [Energy Storage Wiki (StorageWiki)](https://storagewiki.epri.com/index.php/Welcome_to_StorageWiki) — public technical reference covering energy storage technologies
 - [Grid-Scale Battery Fire Mitigation Analysis](https://www.epri.com/research/products/000000003002023089)
-- [Utility-Scale Battery Recycling Research (with Redwood Materials)](https://www.youtube.com/watch?v=ub6fPOxtkTk)
 
 ---
 
