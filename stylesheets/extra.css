@@ -47,14 +47,6 @@ body {
   margin: 1rem auto;
 }
 
-/* Center image caption (italic line under image) */
-.md-content__inner em {
-  display: block;
-  text-align: center;
-  margin-top: 0.25rem;
-  opacity: 0.7;
-}
-
 /* Navigation links */
 .home-nav {
   margin-top: 1rem;
@@ -76,4 +68,14 @@ body {
 /* Hide the auto page title (first h1 on each page) */
 .md-content__inner > h1:first-child {
   display: none;
+}
+
+/* Force-center the image caption */
+.md-content__inner .caption {
+  display: block;
+  width: 100%;
+  text-align: center !important;
+  opacity: 0.7;
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
 }
