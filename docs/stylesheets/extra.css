@@ -53,3 +53,8 @@ body {
   opacity: 1;
   text-decoration: underline;
 }
+
+/* Hide the auto page title (first h1 on each page) */
+.md-content__inner > h1:first-child {
+  display: none;
+}
