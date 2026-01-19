@@ -1,0 +1,60 @@
+/* Remove all Material navigation UI */
+.md-header,
+.md-tabs,
+.md-sidebar,
+.md-search {
+  display: none !important;
+}
+
+/* Black background everywhere */
+body {
+  background-color: #000;
+}
+
+/* Center content */
+.md-content {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Home layout */
+.home {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* Image */
+.home img {
+  max-width: 520px;
+  width: 80%;
+  border-radius: 18px;
+  margin-bottom: 1.5rem;
+}
+
+/* Navigation links */
+.home-nav {
+  margin-top: 1rem;
+}
+
+.home-nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  margin: 0 0.75rem;
+  opacity: 0.85;
+}
+
+.home-nav a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+/* Hide the auto page title (first h1 on each page) */
+.md-content__inner > h1:first-child {
+  display: none;
+}
