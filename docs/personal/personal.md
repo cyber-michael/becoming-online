@@ -6,11 +6,40 @@
 
 ### Currently
 
+- **Reasons and Persons** — Derek Parfit  
+  *Philosophy*
+
+- **Is a River Alive?** — Robert Macfarlane  
+  *Nature*
+
+### 2026
+
 - **Models of the Mind** — Grace Lindsay  
   *Physics · Math · Neuroscience · AI*
 
 - **Just Kids** — Patti Smith  
   *Memoir*
+
+- **The Beauties** — Anton Chekhov  
+  *Fiction*
+
+- **White Fang** — Jack London  
+  *Fiction*
+
+- **Vigil** — George Saunders  
+  *Fiction*
+
+- **The Place of Tides** — James Rebanks  
+  *Memoir · Nature*
+
+- **The Last Samurai** — Helen DeWitt  
+  *Fiction*
+
+- **Into Thin Air** — Jon Krakauer  
+  *Memoir · Adventure*
+
+- **Piranesi** — Susanna Clarke  
+  *Fiction*
 
 ### 2025
 
